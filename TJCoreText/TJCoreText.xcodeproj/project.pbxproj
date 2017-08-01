@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		660CF2681F30702400CD6805 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 660CF2671F30702400CD6805 /* ViewController2.m */; };
+		660CF26B1F30738400CD6805 /* ViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 660CF26A1F30738400CD6805 /* ViewController3.m */; };
 		6620B14D1D24FD7700034ADE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6620B14C1D24FD7700034ADE /* main.m */; };
 		6620B1501D24FD7700034ADE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6620B14F1D24FD7700034ADE /* AppDelegate.m */; };
 		6620B1531D24FD7700034ADE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6620B1521D24FD7700034ADE /* ViewController.m */; };
@@ -19,6 +20,8 @@
 /* Begin PBXFileReference section */
 		660CF2661F30702400CD6805 /* ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
 		660CF2671F30702400CD6805 /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
+		660CF2691F30738400CD6805 /* ViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController3.h; sourceTree = "<group>"; };
+		660CF26A1F30738400CD6805 /* ViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController3.m; sourceTree = "<group>"; };
 		6620B1481D24FD7700034ADE /* TJCoreText.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TJCoreText.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6620B14C1D24FD7700034ADE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6620B14E1D24FD7700034ADE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -65,6 +68,8 @@
 				6620B14F1D24FD7700034ADE /* AppDelegate.m */,
 				660CF2661F30702400CD6805 /* ViewController2.h */,
 				660CF2671F30702400CD6805 /* ViewController2.m */,
+				660CF2691F30738400CD6805 /* ViewController3.h */,
+				660CF26A1F30738400CD6805 /* ViewController3.m */,
 				6620B1511D24FD7700034ADE /* ViewController.h */,
 				6620B1521D24FD7700034ADE /* ViewController.m */,
 				6620B1541D24FD7700034ADE /* Main.storyboard */,
@@ -158,6 +163,7 @@
 				660CF2681F30702400CD6805 /* ViewController2.m in Sources */,
 				6620B1501D24FD7700034ADE /* AppDelegate.m in Sources */,
 				6620B14D1D24FD7700034ADE /* main.m in Sources */,
+				660CF26B1F30738400CD6805 /* ViewController3.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
